@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"src"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"pading",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"FLE",
+				"flex-start\tjustify-content"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"s",
+				"space-around\tjustify-content"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"MARGIN",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"Get",
+				"getElementById"
+			],
+			[
+				"H",
+				"height\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"vertical-align\tproperty"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"re",
+				"reviews"
+			],
+			[
+				"sheme",
+				"scheme"
+			],
+			[
+				"bg",
+				"bgc\tbackground-color"
+			],
+			[
+				"onki",
+				"onclick\tAttr"
+			],
+			[
+				"left",
+				"left\tproperty"
+			],
+			[
+				"Margin",
+				"margin-right\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"ou",
+				"outline\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"c",
+				"center\tjustify-content"
+			],
+			[
+				"fl",
+				"flex-start\talign-items"
+			],
+			[
+				"li",
+				"list\tlist-style-type"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"MARGI",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"n",
+				"news-user"
+			],
+			[
+				"tar",
+				"transition\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"in",
+				"inputl"
+			],
+			[
+				"SELE",
+				"select1"
+			],
+			[
+				"FLEX",
+				"flex-direction\tproperty"
+			],
+			[
+				"m",
+				"myModal"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"padin",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"D",
+				"display\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"IN",
+				"inline\tdisplay"
+			],
+			[
+				"T",
+				"table\tdisplay"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"ini",
+				"inline\tdisplay"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"f",
+				"flex-start\tjustify-content"
+			],
+			[
+				"I",
+				"inline\tdisplay"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"Fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"fot",
+				"font-weight\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"Z",
+				"z-index\tproperty"
+			],
+			[
+				"M",
+				"margin-right\tproperty"
+			],
+			[
+				"S",
+				"space-between\tjustify-content"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"CO",
+				"color\tproperty"
+			],
+			[
+				"FO",
+				"font-size\tproperty"
+			],
+			[
+				"LIST",
+				"list-style\tproperty"
+			],
+			[
+				"Fl",
+				"flex-start\talign-items"
+			],
+			[
+				"Al",
+				"align-items\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"l",
+				"left\tclear"
+			],
+			[
+				"v",
+				"visible\toverflow"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"F",
+				"fixed\tposition"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"PADI",
+				"padding-right\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"flo",
+				"float\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"r",
+				"relative\tposition"
+			],
+			[
+				"pre",
+				"placeholder\tAttr"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"float",
+				"float\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"content\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"LE",
+				"left\tproperty"
+			],
+			[
+				"bot",
+				"bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ri",
+				"right\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "comand.js",
+			"settings":
+			{
+				"buffer_size": 20,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' )",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Profile/Desktop/myGulp/app/sass/_part.sass",
+		"/D/Profile/Desktop/myGulp/app/css/main.css",
+		"/D/Profile/Desktop/myGulp/app/sass/main.sass",
+		"/D/Profile/Desktop/myGulp/app/sass/libs.sass",
+		"/D/Profile/Desktop/myGulp/gulpfile.js",
+		"/D/Profile/Desktop/myGulp/package.json",
+		"/D/Profile/Desktop/myGulp/app/index.html",
+		"/D/Profile/Desktop/myGulp/.bowerrc",
+		"/D/Profile/Desktop/myGulp/app/.bowerrc",
+		"/D/Profile/Desktop/myGulp/app/libs/.bowerrc",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/Profile/Desktop/myGulp/package-lock.json",
+		"/D/Profile/Desktop/ВЕРСТКА/Handy/css/handy.css",
+		"/D/Profile/Desktop/ВЕРСТКА/Handy/css/media-handy.css",
+		"/D/Profile/Desktop/ВЕРСТКА/Handy/handy.html",
+		"/D/Profile/Desktop/Чадо/index.html",
+		"/D/Profile/Desktop/Чадо/js/main.js",
+		"/D/Profile/Desktop/Чадо/css/media.css",
+		"/D/Profile/Desktop/Чадо/css/style.css",
+		"/D/Profile/Desktop/ВЕРСТКА/Handy/js/main.js",
+		"/F/ВЕРСТКА/PS&D/site - копия/index.html",
+		"/D/Profile/Desktop/1.txt",
+		"/D/Profile/Downloads/brat_host/data/case1/1.txt",
+		"/D/Profile/Desktop/Чадо/php/send.php",
+		"/D/Profile/Desktop/chado/index.html",
+		"/D/Profile/Desktop/chado/js/main.js",
+		"/D/Profile/Desktop/Handy/handy.html",
+		"/D/Profile/Desktop/Handy/css/handy.css",
+		"/D/Profile/Desktop/PS&D/site - копия/index.html",
+		"/D/Profile/Desktop/Handy/css/media-handy.css",
+		"/D/Profile/Desktop/Новая папка/jquery/build/release.js",
+		"/D/Profile/Desktop/Все что было на столе/site/index.html",
+		"/C/loftblog/index.html",
+		"/C/loftblog/Новый текстовый документ.txt",
+		"/D/Profile/Desktop/PS&D/site - копия/css/style.css",
+		"/D/Profile/Desktop/Handy/js/main.js",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa6208.16976/jquery.zoom.min.js",
+		"/D/Profile/Desktop/Handy - копия/handys.html",
+		"/D/Profile/Desktop/Handy/js/main.js.txt",
+		"/D/Profile/Downloads/pure-css-drawer101117/README.txt",
+		"/D/Profile/Desktop/Все что было на столе/Handy/handy.html",
+		"/D/Profile/Desktop/Все что было на столе/Handy/css/handy.css",
+		"/D/Profile/Downloads/JetBrains PyCharm Professional 2018.3.5/JetBrains PyCharm Professional 2018.3.5/key-AMPED/AMPED/AMPED.txt",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa3496.39607/AMPED.txt",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa1252.11839/AMPED.txt",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa6264.35172/AMPED.txt",
+		"/D/Profile/Downloads/JetBrains PyCharm Professional 2018.1.3/JetBrains.PyCharm.Professional.2018.1.3.Incl.KeyMaker.14TH.BIRTHDAY-DVT/install.txt",
+		"/C/Users/user/Desktop/MyFirstJavaProgram.java",
+		"/C/Users/user/Documents/Handy/index.html",
+		"/C/Users/user/Documents/Handy/css/handy.css",
+		"/C/Users/user/Documents/сайт/index.html",
+		"/C/Users/user/Documents/сайт/index.html.txt",
+		"/C/Users/user/Desktop/Handy/handy.html",
+		"/C/Users/user/Desktop/Handy/css/handy.css",
+		"/C/Users/user/Desktop/site - копия/css/media_com.css",
+		"/C/Users/user/Desktop/site - копия/comanda.html",
+		"/C/Users/user/Desktop/Handy/css/media-handy.css",
+		"/C/Users/user/Desktop/site - копия/css/media.css",
+		"/C/Users/user/Desktop/site - копия/index.html",
+		"/C/Users/user/Desktop/site - копия/css/style.css",
+		"/C/Users/user/Desktop/Handy/Новый текстовый документ.txt",
+		"/C/Users/user/Downloads/flex/Тренировка/flex.html",
+		"/C/Users/user/Downloads/flex/Тренировка/css/main.css",
+		"/C/Users/user/Downloads/fira-sans/SIL Open Font License.txt",
+		"/C/Users/user/Desktop/site - копия/design.html",
+		"/C/Users/user/Desktop/site - копия/css/design.css",
+		"/C/Users/user/Desktop/site - копия/css/comanda.css",
+		"/C/Users/user/Desktop/Новая папка (3)/css/style.css",
+		"/C/Users/user/Desktop/Новая папка (3)/index.html",
+		"/C/Users/user/Desktop/site - копия/css/stoimost.css",
+		"/C/Users/user/Desktop/site - копия/stoimost.html",
+		"/C/Users/user/Desktop/site - копия/shema.html",
+		"/C/Users/user/Desktop/site - копия/css/shema.css",
+		"/C/Users/user/Desktop/site - копия/css/media_stoim.css",
+		"/C/Users/user/Desktop/site - копия/css/media_shema.css",
+		"/C/Users/user/Desktop/site - копия/css/media_design.css",
+		"/C/Users/user/Desktop/site - копия - копия/comanda.html",
+		"/C/Users/user/Desktop/site - копия - копия/shema.html",
+		"/C/Users/user/Desktop/site - копия - копия/index.html",
+		"/C/Users/user/Desktop/site - копия - копия/stoimost.html",
+		"/C/Users/user/Desktop/site - копия - копия/design.html",
+		"/C/Users/user/Desktop/site - копия - копия/css/style.css",
+		"/C/Users/user/Desktop/site - копия/glavnaya.html",
+		"/C/Users/user/Downloads/vsplyv_okno2/всплыв окно2/index.html",
+		"/C/Users/user/Desktop/site - копия/css/menu.css",
+		"/C/Users/user/Desktop/site - копия/css/menu.html",
+		"/C/Users/user/Desktop/Новая папка/bloki.html",
+		"/C/Users/user/Desktop/Новая папка/bloki.css",
+		"/C/Users/user/Desktop/site - копия/css/bloki.css",
+		"/C/Users/user/Desktop/site - копия/bloki.html",
+		"/C/Users/user/Desktop/site - копия/php/send.php",
+		"/C/Users/user/Desktop/site - копия/send_form.php",
+		"/C/Users/user/Downloads/vsplyv_okno2/всплыв окно2/style.css",
+		"/C/Users/user/Desktop/site - копия/css/forma.css",
+		"/C/Users/user/Desktop/site - копия/forma.html",
+		"/C/Users/user/Downloads/vsplyvayuschee_okno/всплывающее окно/index.html",
+		"/C/Users/user/Desktop/site - копия/php/sendmessage.php",
+		"/C/Users/user/Downloads/motion-blur-effect-using-svg-filters/README.txt",
+		"/C/Users/user/Desktop/site - копия/css/comanda.css.txt",
+		"/C/Users/user/Desktop/gifka.html",
+		"/C/Users/user/Desktop/site/css/style.css",
+		"/C/Users/user/Desktop/site/index.html",
+		"/C/Users/user/Desktop/site/css/style.css.txt",
+		"/C/Users/user/Desktop/site/index.html.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"',\n",
+			"30px",
+			"\t\t\t\t\t\n",
+			";\n",
+			"\t\t\t\t\t\n",
+			"padding",
+			"hea"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "comand.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 26.0
+	},
+	"pinned_build_system": "",
+	"project": "Sublime-Projects.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\user\\Desktop\\site - копия\\css\\media_com.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
